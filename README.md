@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portfolio Website
 
 A modern, responsive portfolio website built with React, TypeScript, and Vite. Features interactive project showcases, functional contact form, and beautiful UI components.
@@ -212,3 +213,7 @@ export default tseslint.config([
   },
 ])
 ```
+=======
+# Portfolio
+This is my portfolio
+>>>>>>> 7112bd288f90e1c236d8040f0f5d3afdabd3ff58
